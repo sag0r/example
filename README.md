@@ -2,7 +2,4 @@
 
 ### Quick Start
 
-- Clone this repo:
-```
-Give examples
-```
+- Clone this repo:```Give examples```
