@@ -1,5 +1,5 @@
 ## BUZ5 Automated Test by Puppeteer
-======
+---
 
 ### Quick Start
 ------
@@ -25,7 +25,7 @@ npm start
 
 
 ### Tests
-======
+---------
 1. Wrong Username login attempt
 2. Wrong Password login attempt
 3. Correct Username && Password login attempt
