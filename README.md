@@ -3,10 +3,7 @@
 
 ### Quick Start
 ___
-1. Clone this repo:
-```
-git clone https://
-```
+1. Clone this repo: `git clone https://`
 2. Install packages
 ```
 npm i
