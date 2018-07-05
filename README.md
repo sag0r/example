@@ -1,6 +1,7 @@
 ## BUZ5 Automated Test by Puppeteer
 
 ### Quick Start
+------
 1. Clone this repo:
 ```
 git clone https://
