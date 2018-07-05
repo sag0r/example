@@ -1,9 +1,10 @@
 ## BUZ5 Automated Test by Puppeteer
 
 ### Quick Start
-Clone this repo: 
-...
-git clone https://
-...
+### Prerequisites
 
-Install Packages: ... npm install ...
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
