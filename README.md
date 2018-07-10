@@ -1,7 +1,7 @@
 ## XXX Automated Test by Puppeteer
 
 ### Get It Ready
-1. Clone this repo: `git clone XXX
+1. Clone this repo: `git clone XXX`
 2. Get inside: `cd buz5-automated-test`
 3. Checkout to DEV Branch: `git fetch && git checkout dev`
 4. Install packages:   `npm i`
@@ -18,7 +18,7 @@
   ```
 * #### Do multiple signup at the same time: 
   ```cmd
-  npm run signup multiple
+  npm run _signup multiple_
   ```
 * #### How many? (optional, defaults to 4)
   ```cmd
@@ -40,5 +40,5 @@
   ```
 
 ### Hints
-1. URLs (signup, mybuz, myorg etc.) are defined in **common/urls.js**.
-2. Users (dummy user, admin, installer etc.) are defined in **common/users.js**.
+1. Add or Change URLs in **common/urls.js**.
+2. Add or Edit Users in **common/users.js**.
