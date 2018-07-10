@@ -9,34 +9,33 @@
 
 ### Run Tests
 * Run all tests: 
-  ```
+  ```javascript
   npm start
   ```
 * Test SignUp, only: 
-  ```
+  ```javascript
   npm run signup
   ```
 * You can even provide an email address to do the signup: 
-  ```
+  ```javascript
   npm run signup email@luminuxtech.com
   ```
 * Do multiple signup at the same time: 
-  ```
+  ```javascript
   npm run signup multiple
   ```
 * How many? 
-  ```
+  ```javascript
   npm run signup multiple 10 
-  > //default is 4 in case not provided
+  //default is 4 in case not provided
   ```
 * Test UIs (no signup): 
-  ```
+  ```javascript
   npm run mybuz
   ``` 
 * Want to role-based test? 
-  ```
+  ```javascript
   npm run installer
   ```
-  > use any of the folowing roles: 
-    admin, installer, customer
+  > use any of the folowing roles: `admin, installer, customer`
 
