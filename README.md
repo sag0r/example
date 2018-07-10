@@ -7,7 +7,7 @@
 4. Install packages:   `npm i`
 5. Run: `npm start`
 
-### Run Tests
+### Run Tests (advanced usage)
 * #### Test SignUp, only: 
   ```cmd
   npm run signup
@@ -15,7 +15,7 @@
 * #### You can even provide an email address to do the signup: 
   ```cmd
   npm run signup email@luminuxtech.com
-  // optional
+  // _optional_, default is hardcoded inside **common/users.js**
   ```
 * #### Do multiple signup at the same time: 
   ```cmd
@@ -24,7 +24,7 @@
 * #### How many? 
   ```cmd
   npm run signup multiple 10 
-  // optional, default is 4, in case not provided
+  // _optional, default is 4, in case not provided_
   ```
 * #### Test UIs (no signup): 
   ```cmd
