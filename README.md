@@ -26,7 +26,8 @@
   ```
 * How many? 
   ```
-  npm run signup multiple 10 //default is 4 in case not provided
+  npm run signup multiple 10 
+  > //default is 4 in case not provided
   ```
 * Test UIs (no signup): 
   ```
@@ -36,5 +37,6 @@
   ```
   npm run installer
   ```
-  > use any of the folowing roles: admin, installer, customer
+  > use any of the folowing roles: 
+    admin, installer, customer
 
