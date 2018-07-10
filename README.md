@@ -8,7 +8,7 @@
 5. Run: `npm start`
 
 ### Run Tests
-* Run all tests: 
+* #### Run all tests: 
   ```cmd
   npm start
   ```
@@ -27,7 +27,7 @@
 * How many? 
   ```cmd
   npm run signup multiple 10 
-  //default is 4 in case not provided
+  // default is 4, in case not provided
   ```
 * Test UIs (no signup): 
   ```cmd
