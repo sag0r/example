@@ -36,5 +36,5 @@
   ```
   npm run installer
   ```
-  use any of the folowing roles: admin, installer, customer
+  > use any of the folowing roles: admin, installer, customer
 
