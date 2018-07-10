@@ -20,7 +20,7 @@ npm run signup
 ```
 npm run signup email@luminuxtech.com
 ```
-* Do multiple signup at the same time: 
+    * Do multiple signup at the same time: 
 ```
 npm run signup multiple
 ```
