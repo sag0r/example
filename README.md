@@ -24,13 +24,15 @@ npm run signup email@luminuxtech.com
 ```
 npm run signup multiple
 ```
-  - How many? 
-  `npm run signup multiple 10` //default is 4 in case not provided
+  -- How many? 
+  ```
+  npm run signup multiple 10 //default is 4 in case not provided
+  ```
 * Test UIs (MyBuz, MyOrg), only: 
-```
-npm run mybuz
-```
-  - Want to role-based test? 
+  ```
+  npm run mybuz
+  ```
+      - Want to role-based test? 
   ```
   npm run installer
   ```
