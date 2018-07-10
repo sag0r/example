@@ -15,6 +15,7 @@
 * #### You can even provide an email address to do the signup: 
   ```cmd
   npm run signup email@luminuxtech.com
+  // optional
   ```
 * #### Do multiple signup at the same time: 
   ```cmd
@@ -23,7 +24,7 @@
 * #### How many? 
   ```cmd
   npm run signup multiple 10 
-  // default is 4, in case not provided
+  // optional, default is 4, in case not provided
   ```
 * #### Test UIs (no signup): 
   ```cmd
@@ -40,3 +41,6 @@
   npm start
   ```
 
+### Hints
+1. URLs (signup, mybuz, myorg etc.) are defined in **common/urls.js**.
+2. Users (dummy user, admin, installer etc.) are defined in **common/users.js**.
