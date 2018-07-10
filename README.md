@@ -16,7 +16,7 @@
   ```cmd
   npm run signup email@luminuxtech.com
   // _optional_, default is hardcoded inside **common/users.js**
-  Emphasis, aka italics, with * asterisks * or *underscores* .
+  ###### Emphasis, aka italics, with * asterisks * or *underscores* .######
   ```
 * #### Do multiple signup at the same time: 
   ```cmd
