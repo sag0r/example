@@ -12,19 +12,17 @@
   ```cmd
   npm run signup
   ```
-* #### You can even provide an email address to do the signup: 
+* #### You can even provide an email address to do the signup (optional): 
   ```cmd
   npm run signup email@luminuxtech.com
-  // optional
   ```
 * #### Do multiple signup at the same time: 
   ```cmd
   npm run signup multiple
   ```
-* #### How many? 
+* #### How many? (optional, defaults to 4)
   ```cmd
   npm run signup multiple 10 
-  // optional, default is 4, in case not provided
   ```
 * #### Test UIs (no signup): 
   ```cmd
