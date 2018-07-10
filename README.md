@@ -9,19 +9,19 @@
 
 ### Run Tests
 * Run all tests: 
-  ```javascript
+  ```cmd
   npm start
   ```
 * Test SignUp, only: 
-  ```javascript
+  ```bash
   npm run signup
   ```
 * You can even provide an email address to do the signup: 
-  ```javascript
+  ```command
   npm run signup email@luminuxtech.com
   ```
 * Do multiple signup at the same time: 
-  ```javascript
+  ```node
   npm run signup multiple
   ```
 * How many? 
