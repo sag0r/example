@@ -28,7 +28,7 @@
   ```cmd
   npm run mybuz
   ``` 
-* #### Want to role-based test? 
+* #### Want to do role-based testing? (optional, defaults to **admin**)
   ```cmd
   npm run installer
   ```
