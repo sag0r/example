@@ -8,34 +8,35 @@
 5. Run: `npm start`
 
 ### Run Tests
-* #### Run all tests: 
-  ```cmd
-  npm start
-  ```
-* Test SignUp, only: 
+* #### Test SignUp, only: 
   ```cmd
   npm run signup
   ```
-* You can even provide an email address to do the signup: 
+* #### You can even provide an email address to do the signup: 
   ```cmd
   npm run signup email@luminuxtech.com
   ```
-* Do multiple signup at the same time: 
+* #### Do multiple signup at the same time: 
   ```cmd
   npm run signup multiple
   ```
-* How many? 
+* #### How many? 
   ```cmd
   npm run signup multiple 10 
   // default is 4, in case not provided
   ```
-* Test UIs (no signup): 
+* #### Test UIs (no signup): 
   ```cmd
   npm run mybuz
   ``` 
-* Want to role-based test? 
+* #### Want to role-based test? 
   ```cmd
   npm run installer
   ```
   > use any of the folowing roles: `admin, installer, customer`
+  
+* #### Run all tests: 
+  ```cmd
+  npm start
+  ```
 
