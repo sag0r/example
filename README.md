@@ -18,7 +18,7 @@
   ```
 * #### Do multiple signup at the same time: 
   ```cmd
-  npm run _signup multiple_
+  npm run signup multiple
   ```
 * #### How many? (optional, defaults to 4)
   ```cmd
