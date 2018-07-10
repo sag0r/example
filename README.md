@@ -13,28 +13,28 @@
   npm start
   ```
 * Test SignUp, only: 
-  ```bash
+  ```cmd
   npm run signup
   ```
 * You can even provide an email address to do the signup: 
-  ```command
+  ```cmd
   npm run signup email@luminuxtech.com
   ```
 * Do multiple signup at the same time: 
-  ```node
+  ```cmd
   npm run signup multiple
   ```
 * How many? 
-  ```javascript
+  ```cmd
   npm run signup multiple 10 
   //default is 4 in case not provided
   ```
 * Test UIs (no signup): 
-  ```javascript
+  ```cmd
   npm run mybuz
   ``` 
 * Want to role-based test? 
-  ```javascript
+  ```cmd
   npm run installer
   ```
   > use any of the folowing roles: `admin, installer, customer`
