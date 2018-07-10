@@ -31,10 +31,10 @@ npm run signup multiple
 * Test UIs (MyBuz, MyOrg), only: 
   ```
   npm run mybuz
-  ```
-      - Want to role-based test? 
+  ``` 
+     *** Want to role-based test? 
   ```
   npm run installer
   ```
-  - use any of the folowing roles: admin, installer, customer
+     --- use any of the folowing roles: admin, installer, customer
 
