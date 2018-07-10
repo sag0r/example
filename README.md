@@ -10,9 +10,9 @@
 ### Run Tests
 * Run all tests: `npm start`
 * Test SignUp, only: `npm run signup`
-    * You can even provide an email address to do the signup: `npm run signup email@luminuxtech.com`
-    * Do multiple signup at the same time: `npm run signup multiple`
-    -- How many? `npm run signup multiple 10` [default is 4 in case not provided]
+  - You can even provide an email address to do the signup: `npm run signup email@luminuxtech.com`
+  - Do multiple signup at the same time: `npm run signup multiple`
+    - How many? `npm run signup multiple 10` [default is 4 in case not provided]
 * Test UIs (MyBuz, MyOrg), only: `npm run mybuz`
     * Want to role-based test? `npm run installer`
     -- use any of the folowing roles: admin, installer, customer
