@@ -21,3 +21,16 @@
 ```npm run mybuz```
   - Want to role-based test? `npm run installer`
   - use any of the folowing roles: admin, installer, customer
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+* Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
